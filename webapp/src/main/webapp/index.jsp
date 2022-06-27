@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Hanamantagouda Vasan and Satish Vasan and Sushen DJ and Pavan Katti Priyanka Beedaki </h1>
+   <h1> Thankyou, Happy Learning Hanamantagouda Vasan and Satish Vasan and Sushen DJ and Pavan Katti Priyanka Beedaki Rashmi Beedaki </h1>
 
   
 </form>
