@@ -7,7 +7,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Check out your Git repository here
-                git url: 'https://github.com/Hvasan/time-tracker.git', branch: 'master'
+                git url: 'https://github.com/Hvasan/hello-world.git', branch: 'master'
             }
         }
 
